@@ -5,7 +5,7 @@ Git is an open-source version control system that allows for the tracking of cha
 
 By using Git individuals that are contributing to a project can branch off from the main branch which allows them to safely make modifications without fear of permenantly overwriting and breaking the source code.
 
-Once they have made their modifications they can review and merge back into main. If the program breaks there is no need to worry as prior versions would have been saved and can be reverted back too if necessary.
+Once they have made their modifications they can review and merge back into main. If the program breaks there is no need to worry as prior versions would have been saved and can be reverted back to if necessary.
 
 # What is GitHub
 Github is often used in parallel with Git. **However, they are not the same thing!** In fact GitHub's name is derived from the fact that the most largely used version control system is **Git**.
