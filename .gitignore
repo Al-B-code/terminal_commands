@@ -3,4 +3,4 @@
 .DS_store?
 
 # Ignore .txt files
-.txt
+*.txt
